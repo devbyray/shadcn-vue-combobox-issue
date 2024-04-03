@@ -1,0 +1,29 @@
+{
+  "name": "shadcn-vue-comboboxform",
+  "scripts": {
+    "start": "shadcn-vue add button command form popover toast -y && vite"
+  },
+  "dependencies": {
+    "@radix-ui/colors": "latest",
+    "@vee-validate/zod": "^4.12.5",
+    "class-variance-authority": "latest",
+    "clsx": "latest",
+    "lucide-vue-next": "latest",
+    "radix-vue": "^1.4.9",
+    "shadcn-vue": "latest",
+    "tailwind-merge": "latest",
+    "tailwindcss-animate": "latest",
+    "typescript": "latest",
+    "vee-validate": "^4.12.5",
+    "vue": "latest",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "vite": "latest",
+    "vue-tsc": "latest"
+  }
+}
